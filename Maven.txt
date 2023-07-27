@@ -1,7 +1,6 @@
 ==================
 Application Types
 ==================
- Adding paguntaashokreddy@gmail.com
 
 Stand-alone application : Which runs only in one computer and only one user can access
 
